@@ -1,0 +1,48 @@
+Running migration: 1_initial_migration.js
+  Deploying Migrations...
+  ... 0x27531a70d13c21080227bcf297cba8e592cf734b1a6fdf2744fa43bc0c323a2a
+  Migrations: 0x57998e68660bb9e83dd8e2a0cd3ac6ab54c8cabb
+Saving successful migration to network...
+  ... 0x6f51ad8e64951f9b1fd453b4529d93a561f9ba8d78b6b0805876cdf46822332f
+Saving artifacts...
+Running migration: 2_smart_contracts.js
+  Deploying OnyxToken...
+  ... 0xe40ba2e0dcd58d8de1ea6599f919e6ccd379ccbb9553afc82bd2f777c46a0110
+  OnyxToken: 0x1d037ef08b8f9d643e57cabf999471339c2c1670
+----------------------------------
+Token Instance 0x1d037ef08b8f9d643e57cabf999471339c2c1670
+----------------------------------
+Saving successful migration to network...
+  Deploying OnyxTokenSale...
+  ... 0xb89f6ec3bbcbce9a710b3a5f7607159f1dbd0d94f009026e314d90ddde272480
+  ... 0xf0de48ed3cad379db79dc0eb625864b23ce436c3ff50b8e0df5f312e920bd9f0
+Saving artifacts...
+  OnyxTokenSale: 0x34fb896003aaae4d15b2327b4c61394a8982f3dd
+----------------------------------
+Sale Instance 0x34fb896003aaae4d15b2327b4c61394a8982f3dd
+----------------------------------
+--------------------------------------------------------------
+maxTokenForSale: 720000000
+Transferring to :0x34fb896003aaae4d15b2327b4c61394a8982f3dd 720000000
+  ... 0x3a1b9be0f19873520f9f611bbd6fb55835a2895f71fa7772f6b45d995a08cf24
+Transfer Txn :0x3a1b9be0f19873520f9f611bbd6fb55835a2895f71fa7772f6b45d995a08cf24
+Balance of Sale 720000000
+--------------------------------------------------------------
+Balance of Owner 280000000
+--------------------------------------------------------------
+--------------------------------------------------------------
+Transferring to :0x8b9226bA9725D6873F4B3e741f722377cf327E8F 100000000
+  ... 0xd288770bdbc46920c5d27869d39b72a85b569e7a73212480c2433db07396d03e
+Transfer Txn :0xd288770bdbc46920c5d27869d39b72a85b569e7a73212480c2433db07396d03e
+--------------------------------------------------------------
+Balance of Team Wallet 100000000
+--------------------------------------------------------------
+--------------------------------------------------------------
+Transferring to :0x3dD49972fb532e1208d7e201A74009FE63576ebd 180000000
+  ... 0x826233b1bcc5c9a4fd8b93b020356b0a752893fbd8b39c488053e6ed913ede89
+Transfer Txn :0x826233b1bcc5c9a4fd8b93b020356b0a752893fbd8b39c488053e6ed913ede89
+--------------------------------------------------------------
+Balance of Market Wallet 180000000
+--------------------------------------------------------------
+Balance of Owner 0
+--------------------------------------------------------------

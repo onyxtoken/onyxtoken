@@ -1,0 +1,44 @@
+Running migration: 1_initial_migration.js
+  Deploying Migrations...
+  ... 0x40f6d4b2400402b019ca10f9346cad583bd302c22fb5a14c311bb9fd2828edb0
+  Migrations: 0x51906fd59de2b18fa0eaa6310164539ba569587f
+Saving successful migration to network...
+  ... 0xb18c8f634dade3f586740b82fb8afe579c9d828b2d2e037e1bffc078fece5648
+Saving artifacts...
+Running migration: 2_smart_contracts.js
+  Deploying OnyxToken...
+  ... 0x32932e577ea232d0977396bf40587e1903d06b436cc001b985094d210e1e32e3
+  OnyxToken: 0x1a4c41f7b958b95519919549f65b2572cb9f5c9d
+----------------------------------
+Token Instance 0x1a4c41f7b958b95519919549f65b2572cb9f5c9d
+----------------------------------
+Saving successful migration to network...
+  Deploying OnyxTokenSale...
+  ... 0xf2c108c4c03649d7fb1c43d633d6adbba0911ca0208bcec44b06958fd22c9df9
+  ... 0xbf82133870a125b3036f8d2051092c0aa5674499259f9c702fb6f3806da7cffc
+Saving artifacts...
+  OnyxTokenSale: 0x0d5a9a191b2c5661a9a53508ede2dba02d550e33
+----------------------------------
+Sale Instance 0x0d5a9a191b2c5661a9a53508ede2dba02d550e33
+----------------------------------
+--------------------------------------------------------------
+maxTokenForSale: 720000000
+Transferring to :0x0d5a9a191b2c5661a9a53508ede2dba02d550e33 720000000
+  ... 0xc67837b923c79bad55b7fa23aa42413f421614cd228af41cc582e73a70eedd21
+Transfer Txn :0xc67837b923c79bad55b7fa23aa42413f421614cd228af41cc582e73a70eedd21
+Balance of Sale 720000000
+--------------------------------------------------------------
+--------------------------------------------------------------
+teamTokens: 100000000
+Transferring to :0x8b9226bA9725D6873F4B3e741f722377cf327E8F { [String: '100000000'] s: 1, e: 8, c: [ 100000000 ] }
+  ... 0x799fa0edeabc96b0cdb9cdd5359c74d9b14ea72b87dad340ef0eead8b5a6e079
+Transfer Txn :0x799fa0edeabc96b0cdb9cdd5359c74d9b14ea72b87dad340ef0eead8b5a6e079
+--------------------------------------------------------------
+--------------------------------------------------------------
+marketTokens: 180000000
+Transferring to :0x3dD49972fb532e1208d7e201A74009FE63576ebd { [String: '180000000'] s: 1, e: 8, c: [ 180000000 ] }
+  ... 0x27bf2a25bf2eda92b07f20d87ff82df91f4f07d2473fea16a744b72cd138aa52
+Transfer Txn :0x27bf2a25bf2eda92b07f20d87ff82df91f4f07d2473fea16a744b72cd138aa52
+--------------------------------------------------------------
+Balance of Owner 0
+--------------------------------------------------------------
